@@ -1,2 +1,3 @@
-# ateliergit20180305
-Atelier
+# wild-project
+
+Comment installer ce projet ?
